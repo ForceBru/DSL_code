@@ -1,0 +1,3 @@
+# Code for option valuation using the binomial tree model
+
+Please see the docstrings and comments in the source for information what each component does. Run `analysis.py` for the UI.

@@ -1,0 +1,3 @@
+# Proof-of-Concept implementation of a DSL for describing contracts
+
+This code is based off of the following paper: Simon Peyton Jones, Jean-Marc Eber, and Julian Seward. 2000. Composing contracts: an adventure in financial engineering (functional pearl). SIGPLAN Not. 35, 9 (September 2000), 280-292. DOI: https://doi.org/10.1145/357766.351267
